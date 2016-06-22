@@ -4473,6 +4473,9 @@
   <LocaleResource Name="Admin.Configuration.Plugins.Fields.Logo">
     <Value>Logo</Value>
   </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Plugins.Fields.Reload.Progress">
+    <Value>Reloading plugin list...</Value>
+  </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Plugins.Fields.SystemName">
     <Value>System name</Value>
   </LocaleResource>

@@ -734,6 +734,9 @@ set @resources='
   <LocaleResource Name="Admin.ReturnRequests.Fields.ID.Hint">
     <Value></Value>
   </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Plugins.Fields.Reload.Progress">
+    <Value>Reloading plugin list...</Value>
+  </LocaleResource>
 </Language>
 '
 
